@@ -286,6 +286,7 @@
   .nav-toggle-btn .menu-icon,
   .nav-toggle-btn.active .close-icon { display: block; }
   
+  
   .navbar {
     position: absolute;
     top: calc(100% + 5px);
@@ -758,7 +759,7 @@
       --fs-1: 4.2rem;
   
     }
-  
+    
   
   
     /**
